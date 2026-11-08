@@ -21,4 +21,5 @@ A simple task manager built with HTML, CSS and JavaScript. Tasks are stored in a
 
 ## Merged Pull Requests
 
-- Pending: links to the merged Pull Requests from the partner collaboration will be added here.
+- Pull Request I created in partner's repository: https://github.com/Kamal-Abbasli-73740/vistula-task-manager/pull/1
+- Pull Request received from partner: https://github.com/vistula-team-project-74025/vistula-task-manager/pull/1
